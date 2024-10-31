@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MpiWorker": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
