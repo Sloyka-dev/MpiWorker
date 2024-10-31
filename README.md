@@ -1,5 +1,5 @@
 # MpiWorker
-This project helps you multiply matrices. Matrices must be of size NxN, and each call consists of ```i + l + 1```
+This project helps you multiply matrices. Matrices must be of size NxN, and each cell consists of ```i + l + 1```
 
 ## Run
 Example of running this program:
